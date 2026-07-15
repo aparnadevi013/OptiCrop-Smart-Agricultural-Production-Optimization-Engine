@@ -77,7 +77,7 @@ OptiCrop/
 
 Clone the repository:
 
-git clone https://github.com/Nidhrabingi-Kavitha/OptiCrop.git
+git clone https://github.com/aparnadevi013/OptiCrop-Smart-Agricultural-Production-Optimization-Engine
 Move into the project directory:
 
 cd OptiCrop
