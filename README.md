@@ -130,11 +130,7 @@ Geographic Crop Suitability Mapping
 Integration with IoT soil sensors
 👥 Team Members
 
-Nidhrabingi Kavitha - Team lead
-Anusuri Asha Deepa - Member
-Keerthana Adam - Member
-Siva Nagendra Egaia - Member
-Birada Jaswanth - Member
+Yandamoori Aparnadevi
 🖥️ System Requirements
 
 Hardware Requirements
