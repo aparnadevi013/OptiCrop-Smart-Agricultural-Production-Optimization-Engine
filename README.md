@@ -128,9 +128,11 @@ Interactive Data Visualization Dashboard
 SMS and Email Farming Alerts
 Geographic Crop Suitability Mapping
 Integration with IoT soil sensors
+
+
 👥 Team Members
 
-Yandamoori Aparnadevi
+Yandamuri Aparnadevi
 
 
 🖥️ System Requirements
